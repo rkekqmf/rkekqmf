@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <div><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /></div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkekqmf)](https://solved.ac/rkekqmf)<br/>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
