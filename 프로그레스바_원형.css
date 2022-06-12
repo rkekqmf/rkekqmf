@@ -129,5 +129,5 @@ body {
   font-size: 0.9em;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.75);
+  color: var(--clr);
 }
