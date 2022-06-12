@@ -6,4 +6,8 @@
 
 - 프로그레스바\_원형
 
-![프로그레스바_원형](https://user-images.githubusercontent.com/86031411/173201768-7da768d5-d34c-439d-a9de-364d2164ee15.gif)
+![프로그레스바_원형](https://user-images.githubusercontent.com/86031411/173215592-19f0039a-b7cb-4f99-afc6-522950d22d70.gif)
+
+- 우유
+
+![우유](https://user-images.githubusercontent.com/86031411/173215617-bc39c4d3-af40-47e7-a1d2-d1e2279f0f31.gif)
