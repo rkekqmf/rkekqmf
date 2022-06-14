@@ -11,3 +11,7 @@
 - 우유
 
 ![우유](https://user-images.githubusercontent.com/86031411/173215617-bc39c4d3-af40-47e7-a1d2-d1e2279f0f31.gif)
+
+- 전구
+
+![전구](https://user-images.githubusercontent.com/86031411/173624724-42dff6f6-fa84-432a-bf73-712eb78fd96d.gif)
