@@ -15,3 +15,7 @@
 - 전구
 
 ![전구](https://user-images.githubusercontent.com/86031411/173624724-42dff6f6-fa84-432a-bf73-712eb78fd96d.gif)
+
+- 파도
+
+![파도](https://user-images.githubusercontent.com/86031411/174132021-0eabf6d0-6eab-4523-b2e7-6be1ae05c89a.gif)
