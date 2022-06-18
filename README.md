@@ -7,15 +7,13 @@
 [![Badge_인스타](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rkekqmf/)
 [![Badge_롤티어](https://img.shields.io/badge/가장따뜻한색블루-555555?style=for-the-badge&logo=riotgames&logoColor=fff)](https://www.op.gg/summoners/kr/%EA%B0%80%EC%9E%A5%EB%94%B0%EB%9C%BB%ED%95%9C%EC%83%89%EB%B8%94%EB%A3%A8)
 
-##### Github
+#### Github
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkekqmf&include_all_commits=true&count_private=true&show_icons=true&icon_color=fff&hide_title=true&theme=dark)](https://github.com/rkekqmf/github-readme-stats)
-##### Baekjoon
+#### Baekjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkekqmf)](https://solved.ac/rkekqmf)
-##### Wakatime
+#### Wakatime
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkekqmf&theme=dark&hide_title=true)](https://github.com/rkekqmf/github-readme-stats)
-##### Wakatime
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkekqmf&layout=compact&theme=dark&hide_title=true)](https://github.com/rkekqmf/github-readme-stats)
 
 
 
