@@ -19,3 +19,7 @@
 - 파도
 
 ![파도](https://user-images.githubusercontent.com/86031411/174132021-0eabf6d0-6eab-4523-b2e7-6be1ae05c89a.gif)
+
+- 눈구름
+
+![눈구름](https://user-images.githubusercontent.com/86031411/174442850-7fe64197-896c-4845-873e-030e96fa29ab.gif)
