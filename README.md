@@ -15,12 +15,12 @@
 
 <img src="">
 
-[![Badge_Html5](https://img.shields.io/badge/Html-555555??style=for-the-badge&logo=html5&logoColor=e34f26)]()
-[![Badge_Css3](https://img.shields.io/badge/Css-555555??style=for-the-badge&logo=css3&logoColor=1572B6)]()
-[![Badge_Sass](https://img.shields.io/badge/Sass-555555??style=for-the-badge&logo=sass&logoColor=cc6699)]()
-[![Badge_JavaScript](https://img.shields.io/badge/JavaScript-555555??style=flat&logo=javaScript&logoColor=f7df1e)]()
-[![Badge_React](https://img.shields.io/badge/React-555555??style=flat&logo=react&logoColor=61DAFB)]()
-[![Badge_StyledComponents](https://img.shields.io/badge/StyledComponents-555555??style=flat&logo=styledComponents&logoColor=db7093)]()
-[![Badge_Java](https://img.shields.io/badge/Java-555555??style=flat&logo=java&logoColor=007396)]()
-[![Badge_Spring](https://img.shields.io/badge/Spring-555555??style=flat&logo=spring&logoColor=6db33f)]()
-[![Badge_Oracle](https://img.shields.io/badge/Oracle-555555??style=flat&logo=oracle&logoColor=f80000)]()
+[![Badge_Html5](https://img.shields.io/badge/Html-555555?style=for-the-badge&logo=html5&logoColor=e34f26)]()
+[![Badge_Css3](https://img.shields.io/badge/Css-555555?style=for-the-badge&logo=css3&logoColor=1572B6)]()
+[![Badge_Sass](https://img.shields.io/badge/Sass-555555?style=for-the-badge&logo=sass&logoColor=cc6699)]()
+[![Badge_JavaScript](https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javaScript&logoColor=f7df1e)]()
+[![Badge_React](https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Badge_StyledComponents](https://img.shields.io/badge/StyledComponents-555555?style=for-the-badge&logo=styledComponents&logoColor=db7093)]()
+[![Badge_Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=java&logoColor=007396)]()
+[![Badge_Spring](https://img.shields.io/badge/Spring-555555?style=for-the-badge&logo=spring&logoColor=6db33f)]()
+[![Badge_Oracle](https://img.shields.io/badge/Oracle-555555?style=for-the-badge&logo=oracle&logoColor=f80000)]()
