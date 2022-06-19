@@ -22,7 +22,7 @@
 [![Badge_Sass](https://img.shields.io/badge/Sass-555555?style=for-the-badge&logo=sass&logoColor=cc6699)]()
 [![Badge_JavaScript](https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javaScript&logoColor=f7df1e)]()
 [![Badge_React](https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Badge_StyledComponents](https://img.shields.io/badge/StyledComponents-555555?style=for-the-badge&logo=styledComponents&logoColor=db7093)]()
+[![Badge_StyledComponents](https://img.shields.io/badge/Styled%20Components-555555?style=for-the-badge&logo=styledComponents&logoColor=db7093)]()
 ### Sub
 [![Badge_Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=java&logoColor=007396)]()
 [![Badge_Spring](https://img.shields.io/badge/Spring-555555?style=for-the-badge&logo=spring&logoColor=6db33f)]()
