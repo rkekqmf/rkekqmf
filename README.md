@@ -4,8 +4,9 @@
 # 개인정보
 
 ### 연락처
-[![Badge_자기소개](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=notion&logoColor=fff)](https://www.notion.so/d86c741ccc92419585ce85bc22ca8b87)
+[![Badge_휴대전화](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=Messenger&logoColor=fff)](tel:+8210-6336-7941)
 [![Badge_지메일](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rkekqmf@gmail.com)
+[![Badge_자기소개](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=notion&logoColor=fff)](https://www.notion.so/d86c741ccc92419585ce85bc22ca8b87)
 [![Badge_인스타](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rkekqmf/)
 [![Badge_롤티어](https://img.shields.io/badge/가장따뜻한색블루-555555?style=for-the-badge&logo=riotgames&logoColor=fff)](https://www.op.gg/summoners/kr/%EA%B0%80%EC%9E%A5%EB%94%B0%EB%9C%BB%ED%95%9C%EC%83%89%EB%B8%94%EB%A3%A8)
 
@@ -30,6 +31,7 @@
 ![Badge_Oracle](https://img.shields.io/badge/Oracle-555555?style=for-the-badge&logo=oracle&logoColor=f80000)
 
 ### ToDo
-![Badge_TypeScript](https://img.shields.io/badge/Type%20Script-555555?style=for-the-badge&logo=typeScript&logoColor=007396)
+![Badge_TypeScript](https://img.shields.io/badge/Redux-555555?style=for-the-badge&logo=typeScript&logoColor=007396)
+![Badge_Redux](https://img.shields.io/badge/Type%20Script-555555?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Badge_Next](https://img.shields.io/badge/Next-555555?style=for-the-badge&logo=next.js&logoColor=fff)
 ![Badge_Vue](https://img.shields.io/badge/Vue-555555?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
