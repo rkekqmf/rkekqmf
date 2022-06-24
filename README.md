@@ -4,7 +4,7 @@
 # 개인정보
 
 ### 연락처
-[![Badge_휴대전화](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=Messenger&logoColor=fff)](tel:+8210-6336-7941)
+[![Badge_휴대전화](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=Messenger&logoColor=fff)](tel:+821063367941)
 [![Badge_지메일](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rkekqmf@gmail.com)
 [![Badge_자기소개](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=notion&logoColor=fff)](https://www.notion.so/d86c741ccc92419585ce85bc22ca8b87)
 [![Badge_인스타](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rkekqmf/)
