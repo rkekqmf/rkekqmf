@@ -10,8 +10,8 @@
 [![Badge_롤티어](https://img.shields.io/badge/가장따뜻한색블루-555555?style=for-the-badge&logo=riotgames&logoColor=fff)](https://www.op.gg/summoners/kr/%EA%B0%80%EC%9E%A5%EB%94%B0%EB%9C%BB%ED%95%9C%EC%83%89%EB%B8%94%EB%A3%A8)
 
 ### 통계
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkekqmf&include_all_commits=true&count_private=true&show_icons=true&icon_color=fff&hide_title=true&theme=dark)
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkekqmf&theme=dark&hide_title=true&langs_count=5)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkekqmf&include_all_commits=true&count_private=true&show_icons=true&icon_color=fff&hide_title=true&theme=dark)](https://www.github.com/rkekqmf)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkekqmf&theme=dark&hide_title=true&langs_count=5)](https://www.github.com/rkekqmf)
 <!-- 
 
 # 기술
