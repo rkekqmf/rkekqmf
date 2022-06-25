@@ -1,8 +1,8 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkekqmf%2Fhit-counter&count_bg=%238E8E8E&title_bg=%23555555&icon=&icon_color=%23CECECE&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkekqmf%2Fhit-counter&count_bg=%238E8E8E&title_bg=%23555555&icon=&icon_color=%23CECECE&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rkekqmf)](https://solved.ac/rkekqmf)
 # 개인정보
-
+ -->
 ### 연락처
 [![Badge_지메일](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rkekqmf@gmail.com)
 [![Badge_자기소개](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=notion&logoColor=fff)](https://www.notion.so/d86c741ccc92419585ce85bc22ca8b87)
@@ -12,7 +12,7 @@
 ### 통계
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkekqmf&include_all_commits=true&count_private=true&show_icons=true&icon_color=fff&hide_title=true&theme=dark)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkekqmf&theme=dark&hide_title=true)
-
+<!-- 
 
 # 기술
 
@@ -34,3 +34,4 @@
 ![Badge_Redux](https://img.shields.io/badge/Redux-555555?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Badge_Next](https://img.shields.io/badge/Next-555555?style=for-the-badge&logo=next.js&logoColor=fff)
 ![Badge_Vue](https://img.shields.io/badge/Vue-555555?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+ -->
