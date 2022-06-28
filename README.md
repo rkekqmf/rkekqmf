@@ -4,14 +4,14 @@
 # 개인정보
  -->
 
-#### Contact
+### Contact
 
 [![Badge_지메일](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rkekqmf@gmail.com)
 [![Badge_자기소개](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=notion&logoColor=fff)](https://www.notion.so/d86c741ccc92419585ce85bc22ca8b87)
 [![Badge_인스타](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rkekqmf/)
 [![Badge_롤티어](https://img.shields.io/badge/가장따뜻한색블루-555555?style=for-the-badge&logo=riotgames&logoColor=fff)](https://www.op.gg/summoners/kr/%EA%B0%80%EC%9E%A5%EB%94%B0%EB%9C%BB%ED%95%9C%EC%83%89%EB%B8%94%EB%A3%A8)
 
-#### Skill Stack
+### Skill
 
 ![Badge_Html5](https://img.shields.io/badge/Html-555555?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![Badge_Css3](https://img.shields.io/badge/Css-555555?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -19,7 +19,7 @@
 ![Badge_React](https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Badge_StyledComponents](https://img.shields.io/badge/Styled%20Components-555555?style=for-the-badge&logo=styledComponents&logoColor=db7093)
 
-#### Stats
+### Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkekqmf&include_all_commits=true&count_private=true&show_icons=true&icon_color=fff&hide_title=true&theme=dark)](https://www.github.com/rkekqmf)
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkekqmf&theme=dark&hide_title=true&langs_count=5)](https://www.github.com/rkekqmf)
