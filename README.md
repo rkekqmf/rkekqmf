@@ -22,7 +22,7 @@
 ### Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkekqmf&include_all_commits=true&count_private=true&show_icons=true&icon_color=fff&hide_title=true&theme=dark)](https://www.github.com/rkekqmf)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkekqmf&theme=dark&hide_title=true&langs_count=5)](https://www.github.com/rkekqmf)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkekqmf&theme=dark&hide_title=true&langs_count=5&range=last_7_days)](https://www.github.com/rkekqmf)
 
 <!--
 
