@@ -1,24 +1,34 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
 
 function App() {
+  type Name = string[] | number;
+  const nameYong: Name = 123;
+
+  function funcYong(x: number) {
+    return x * 2;
+  }
+
+  type Member = [number, boolean, string];
+  const memberYong: Member = [29, true, "이름"];
+
+  type Game = {
+    [key: string]: string | number;
+  };
+  const lol: Game = { name: "lol", age: 123 };
+
+  class User {
+    name: string;
+    constructor(name: string) {
+      this.name = name;
+    }
+  }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <p>{nameYong}</p>
+      <p>{funcYong(1.2)}</p>
+      <p>{memberYong}</p>
+      <p>{lol.age}</p>
     </div>
   );
 }
