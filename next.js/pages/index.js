@@ -5,6 +5,7 @@ export default function Home() {
     <>
       <Nav />
       <div>홈</div>
+      <div className="use">홈2</div>
     </>
   );
 }
