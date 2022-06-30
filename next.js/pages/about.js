@@ -1,10 +1,12 @@
 import Nav from "../components/Nav";
 
-export default function Home() {
+const Post = () => {
   return (
     <>
       <Nav />
-      <div>홈</div>
+      <div>ABOUT</div>
     </>
   );
-}
+};
+
+export default Post;
