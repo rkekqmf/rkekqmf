@@ -1,6 +1,6 @@
 import Seo from "../components/Seo";
-import { useEffect, useState } from "react";
-
+import Link from "next/link";
+import { useRouter } from "next/router";
 export default function Home({ results }) {
   // const [movies, setMovies] = useState();
   // useEffect(() => {
@@ -10,12 +10,30 @@ export default function Home({ results }) {
   //   })();
   // }, []);
 
+  const router = useRouter();
+  const goToDetail = (id, title) => {
+    router.push(
+      {
+        pathname: `/movies/${id}`,
+        query: {
+          title: title,
+        },
+      },
+      `/movies/${id}`
+    );
+  };
+
   return (
     <>
       <Seo title="홈" />
       {!results && <h4>Loading...</h4>}
       {results?.map((movie) => (
-        <div key={movie.id}>
+        <div
+          onClick={() => {
+            goToDetail(movie.id, movie.original_title);
+          }}
+          key={movie.id}
+        >
           <h4>{movie.original_title}</h4>
         </div>
       ))}
