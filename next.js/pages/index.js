@@ -12,15 +12,12 @@ export default function Home({ results }) {
 
   const router = useRouter();
   const goToDetail = (id, title) => {
-    router.push(
-      {
-        pathname: `/movies/${id}`,
-        query: {
-          title: title,
-        },
+    router.push({
+      pathname: `/movies/${title}/${id}`,
+      query: {
+        title: title,
       },
-      `/movies/${id}`
-    );
+    });
   };
 
   return (
