@@ -14,8 +14,8 @@
 // [[1],[2]]	    [[3],[4]]    	 [[4],[6]]
 
 function solution1(arr1, arr2) {
-  // console.log(arr1.map((a, i) => a.map((b, j) => b + arr2[i][j])));
-  return arr1.map((a, i) => a.map((b, j) => b + arr2[i][j]));
+  let answer = arr1.map((a, i) => a.map((b, j) => b + arr2[i][j]));
+  return answer;
 }
 
 function solution2(arr1, arr2) {
@@ -26,7 +26,6 @@ function solution2(arr1, arr2) {
       answer[i].push(arr1[i][j] + arr2[i][j]);
     }
   }
-  // console.log(answer);
   return answer;
 }
 
