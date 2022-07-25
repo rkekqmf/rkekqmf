@@ -5,21 +5,16 @@
 // 제한 조건
 // phone_number는 길이 4 이상, 20이하인 문자열입니다.
 
-// 입출력 예
-// phone_number	    return
-// "01033334444"	  "*******4444"
-// "027778888"	    "*****8888"
-
 function solution(phone_number) {
-    let answer = '';
-  	let star_number = phone_number.slice(0,-4);
-    let star = ""
-    
-    for (let i = 0; i < star_number.length; i++) {
-        star += "*"
-    }
-    answer = phone_number.replace(star_number,star);
-    return answer;
+  let answer = "";
+  let star_number = phone_number.slice(0, -4);
+  let star = "";
+
+  for (let i = 0; i < star_number.length; i++) {
+    star += "*";
+  }
+  answer = phone_number.replace(star_number, star);
+  return answer;
 }
 
 solution(01033334444);

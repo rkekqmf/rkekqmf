@@ -11,3 +11,5 @@ function solution(arr) {
   answer = answer / arr.length;
   return answer;
 }
+
+solution([1, 2, 3, 4]);

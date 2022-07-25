@@ -8,11 +8,6 @@
 // 제한 조건
 // 행렬 arr1, arr2의 행과 열의 길이는 500을 넘지 않습니다.
 
-// 입출력 예
-// arr1	           arr2	          return
-// [[1,2],[2,3]]	[[3,4],[5,6]]	 [[4,6],[7,9]]
-// [[1],[2]]	    [[3],[4]]    	 [[4],[6]]
-
 function solution1(arr1, arr2) {
   let answer = arr1.map((a, i) => a.map((b, j) => b + arr2[i][j]));
   return answer;
