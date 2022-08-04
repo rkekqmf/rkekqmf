@@ -39,3 +39,7 @@
 - 3D\_카드
 
 ![3D_카드](./capture/3D_%EC%B9%B4%EB%93%9C.gif)
+
+- 텍스트효과\_빛
+
+![텍스트효과_빛](./capture/%ED%85%8D%EC%8A%A4%ED%8A%B8%ED%9A%A8%EA%B3%BC_%EB%B9%9B.gif)
