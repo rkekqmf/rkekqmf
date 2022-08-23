@@ -8,8 +8,7 @@
 
 [![Badge_지메일](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rkekqmf@gmail.com)
 [![Badge_자기소개](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=notion&logoColor=fff)](https://www.notion.so/d86c741ccc92419585ce85bc22ca8b87)
-[![Badge_인스타](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rkekqmf/)
-[![Badge_롤티어](https://img.shields.io/badge/가장따뜻한색블루-555555?style=for-the-badge&logo=riotgames&logoColor=fff)](https://www.op.gg/summoners/kr/%EA%B0%80%EC%9E%A5%EB%94%B0%EB%9C%BB%ED%95%9C%EC%83%89%EB%B8%94%EB%A3%A8)
+(https://www.op.gg/summoners/kr/%EA%B0%80%EC%9E%A5%EB%94%B0%EB%9C%BB%ED%95%9C%EC%83%89%EB%B8%94%EB%A3%A8)
 
 ### Skill
 
@@ -25,7 +24,8 @@
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rkekqmf&theme=dark&hide_title=true&langs_count=5&range=last_7_days)](https://www.github.com/rkekqmf)
 
 <!--
-
+[![Badge_인스타](https://img.shields.io/badge/서성용-555555?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/rkekqmf/)
+[![Badge_롤티어](https://img.shields.io/badge/가장따뜻한색블루-555555?style=for-the-badge&logo=riotgames&logoColor=fff)]
 # 기술
 
 ### 여러 번
